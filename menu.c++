@@ -17,7 +17,7 @@ int main()
             {
                 if (event.key.code == sf::Keyboard::Escape)
                 {
-                    std::cout << "Menu do Jogo Aberto!" << std::endl; // Aqui você pode implementar a lógica para abrir o menu do jogo
+                    std::cout << "Menu do Jogo Aberto!" << std::endl; // tenho q  implementar a lógica para abrir o menu do jogo
                 }
             }
         }
